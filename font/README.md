@@ -11,4 +11,5 @@
         src: url('../fonts/OpenSans.ttf');
     }
     font-family: 'OpenSans', sans-serif;
+    
     /* Значения 'OpenSans' в атрибутах font-family должны совпадать */
