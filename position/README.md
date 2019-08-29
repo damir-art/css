@@ -1,5 +1,6 @@
 # Позиционировние в CSS
-
-Позиционирование в CSS:
     
-    sasdds
+    static (по-умолчанию)
+    relative
+    absolute
+    fixed
