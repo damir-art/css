@@ -7,9 +7,9 @@
 Подключаем шрифт из папки:
 
     @font-face {
-        font-family: 'OpenSans';
+        font-family: **'OpenSans'**;
         src: url('../fonts/OpenSans.ttf');
     }
-    font-family: 'OpenSans', sans-serif;
+    font-family: **'OpenSans'**, sans-serif;
     
     /* Значения 'OpenSans' в атрибутах font-family должны совпадать */
