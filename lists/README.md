@@ -15,10 +15,12 @@
         margin: 0;
         padding: 0;
     }
+    
     li {
         position: relative;
         padding-left: 15px;
     }
+    
     li::before {
         content: '';
         width: 10px;
