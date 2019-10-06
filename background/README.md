@@ -4,8 +4,8 @@
     .background {
         background-color:     #f4faff;          // задаём цвет для фона
         background-image:     url('../img/head-screen.png'); // задаем фоновое изображение
-        background-repeat:    no-repeat;     // задаем повтор для изображения
-        background-position:  right center;        // задаем позицию изображения можно задавать 2 значения "вертикаль горизонталь" или в пикселях
+        background-repeat:    no-repeat;        // задаем повтор для изображения
+        background-position:  right center;     // задаем позицию изображения можно задавать 2 значения "вертикаль горизонталь" или в пикселях
         background-size:      contain;         // задаём размер изображения
             // cover   - подстраивается по высоте и ширине одновременно
             // auto    - вставляется внурь контейнера как есть не подстраивается,
