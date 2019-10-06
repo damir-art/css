@@ -3,4 +3,4 @@
     text-decoration: none # убираем нижнее подчеркивание
     outline:
     
-    :hover, :focus, :active
+    :link :visited :focus :hover :active
