@@ -7,5 +7,5 @@
     text-align: center;
 
     // для блочных элементов
-    width: 100px;
+    max-width: 100px;
     margin: 0 auto;
