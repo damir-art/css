@@ -1,3 +1,3 @@
-# FlexBox
-Изучаем flexbox в CSS.
+# Flexbox
+Изучаем Flexbox в CSS.
 
